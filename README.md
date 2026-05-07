@@ -75,10 +75,6 @@ Proyecto DAW orientado al desarrollo web y gestión de contenidos.
 
 ## 📊 Estadísticas GitHub
 
-## 📊 Estadísticas GitHub
-
-## 📊 Estadísticas GitHub
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jroldanpomareta&theme=github-dark" />
 </p>
