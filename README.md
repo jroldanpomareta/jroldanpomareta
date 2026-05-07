@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hola, soy Javier
 
-<!--
-**jroldanpomareta/jroldanpomareta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ Desarrollador Backend Java en formación  
+🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)  
+🚀 Especializándome en Java, Spring, Hibernate y MySQL  
+📍 Madrid
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Actualmente
+
+Desarrollando aplicaciones backend con Spring MVC y Hibernate, trabajando con:
+
+- Arquitectura MVC
+- CRUDs completos
+- Gestión de sesiones y login
+- MySQL + Hibernate ORM
+- Git Flow y Pull Requests
+- Trabajo colaborativo en equipo
+- Maven
+
+---
+
+## 🚀 Tecnologías y herramientas
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
+
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## 📌 Proyecto destacado en ejecución:
+
+### 🏨 SpringHotelApp
+
+Aplicación web de gestión hotelera desarrollada con Spring MVC + Hibernate.
+
+✔ Sistema de login y control de roles  
+✔ CRUD completo de habitaciones, huéspedes, reservas e incidencias  
+✔ Arquitectura MVC  
+✔ Integración con MySQL  
+✔ Trabajo colaborativo con Git Flow y Pull Requests  
+✔ Gestión de sesiones y navegación protegida
+
+---
+
+## 📊 Estadísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jroldanpomareta&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jroldanpomareta&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/javier-rold%C3%A1n-pomareta-98079319a/
+- Portfolio *(próximamente 🚀)*
+
+---
+
+⭐ Aprendiendo y mejorando en cada proyecto.
