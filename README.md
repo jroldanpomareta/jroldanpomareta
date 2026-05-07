@@ -75,7 +75,12 @@ Proyecto DAW orientado al desarrollo web y gestión de contenidos.
 
 ## 📊 Estadísticas GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jroldanpomareta&theme=github-dark)
+## 📊 Estadísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jroldanpomareta&show_icons=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroldanpomareta&layout=compact&theme=github_dark" height="170"/>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jroldanpomareta&layout=compact&theme=github_dark&cache_seconds=1800)
 
