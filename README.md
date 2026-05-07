@@ -57,6 +57,22 @@ Aplicación web de gestión hotelera desarrollada con Spring MVC + Hibernate.
 
 ---
 
+## 📚 Otros proyectos y prácticas
+
+### 🌱 Spring MVC Form App
+Aplicación desarrollada con Spring MVC utilizando formularios y validaciones.
+
+### ⚡ Spring Hibernate App
+Proyecto Java conectado a MySQL mediante Hibernate ORM.
+
+### 🎮 Piedra Papel Tijeras
+Mini proyecto JavaScript centrado en lógica y manipulación del DOM.
+
+### 🍰 Dulce Paraíso
+Proyecto DAW orientado al desarrollo web y gestión de contenidos.
+
+---
+
 ## 📊 Estadísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jroldanpomareta&show_icons=true&theme=tokyonight)
