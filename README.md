@@ -87,7 +87,7 @@ Proyecto DAW orientado al desarrollo web y gestión de contenidos.
 ## 📫 Contacto
 
 - LinkedIn: https://www.linkedin.com/in/javier-rold%C3%A1n-pomareta-98079319a/
-- Portfolio *(próximamente 🚀)*
+- Portfolio: file:///C:/Users/Javier/Desktop/portfolio/index.html
 
 ---
 
