@@ -2,7 +2,7 @@
 
 ☕ Desarrollador Backend Java en formación  
 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)  
-🚀 Especializándome en Java, Spring, Hibernate y MySQL  
+🚀 Especializándome en Java, Spring, Spring Boot, Hibernate y MySQL  
 📍 Madrid
 
 https://javier-roldan-portfolio.netlify.app
