@@ -10,16 +10,13 @@ https://javier-roldan-portfolio.netlify.app
 ---
 
 ## 💼 Actualmente
+En realización del Bootcamp de Fundaula:
 
-Desarrollando aplicaciones backend con Spring MVC y Hibernate, trabajando con:
+1ª Edición Back-End Java GenAI
 
-- Arquitectura MVC
-- CRUDs completos
-- Gestión de sesiones y login
-- MySQL + Hibernate ORM
-- Git Flow y Pull Requests
-- Trabajo colaborativo en equipo
-- Maven
+<img width="204" height="250" alt="curso" src="https://github.com/user-attachments/assets/8b445c21-2850-4a58-9e27-9f8d017445f2" />
+
+<img width="1450" height="564" alt="image" src="https://github.com/user-attachments/assets/8be114d7-faf3-4b75-98fa-33b17a64b1b9" />
 
 ---
 
