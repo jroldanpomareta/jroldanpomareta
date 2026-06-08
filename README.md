@@ -18,6 +18,13 @@ En realización del Bootcamp de Fundaula:
 
 <img width="1450" height="564" alt="image" src="https://github.com/user-attachments/assets/8be114d7-faf3-4b75-98fa-33b17a64b1b9" />
 
+
+Habiendo finalizado:
+1ª Edición Flexible Back End Java de Fundaula
+
+<img width="200" height="246" alt="image" src="https://github.com/user-attachments/assets/a0be4adb-ba67-4eae-9872-41c92d3267c6" />
+
+<img width="1308" height="512" alt="image" src="https://github.com/user-attachments/assets/33dc5d40-397e-4641-a8c6-f4dec0a57efe" />
 ---
 
 ## 🚀 Tecnologías y herramientas
@@ -38,13 +45,6 @@ En realización del Bootcamp de Fundaula:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
-
-Habiendo finalizado:
-1ª Edición Flexible Back End Java de Fundaula
-
-<img width="200" height="246" alt="image" src="https://github.com/user-attachments/assets/a0be4adb-ba67-4eae-9872-41c92d3267c6" />
-
-<img width="1308" height="512" alt="image" src="https://github.com/user-attachments/assets/33dc5d40-397e-4641-a8c6-f4dec0a57efe" />
 
 ---
 
