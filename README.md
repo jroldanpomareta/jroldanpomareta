@@ -48,7 +48,7 @@ Habiendo finalizado:
 
 ---
 
-## 📌 Proyecto backend en desarrollo
+## 📌 Proyecto backend finalizado recientemente
 
 ### 🏨 SpringHotelApp
 
