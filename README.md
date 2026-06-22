@@ -34,6 +34,10 @@ https://javier-roldan-portfolio.netlify.app
 ## 💼 Actualmente
 En realización del Bootcamp de Fundaula:
 
+Microsoft Applied Skills Aceleracion del desarrollo asistido por IA mediante GitHub Copilot
+[20260622 Microsoft Applied Skills Aceleracion del desarrollo asistido por IA mediante GitHub Copilot.pdf](https://github.com/user-attachments/files/29198706/20260622.Microsoft.Applied.Skills.Aceleracion.del.desarrollo.asistido.por.IA.mediante.GitHub.Copilot.pdf)
+
+
 1ª Edición Back-End Java GenAI
 
 <img width="204" height="250" alt="curso" src="https://github.com/user-attachments/assets/8b445c21-2850-4a58-9e27-9f8d017445f2" />
