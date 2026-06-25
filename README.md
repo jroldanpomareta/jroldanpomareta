@@ -46,9 +46,9 @@ En realización del Bootcamp de Fundaula:
 Habiendo finalizado:
 1ª Edición Flexible Back End Java de Fundaula
 
-<img width="200" height="246" alt="image" src="https://github.com/user-attachments/assets/a0be4adb-ba67-4eae-9872-41c92d3267c6" />
+<img width="1306" height="732" alt="cert11a" src="https://github.com/user-attachments/assets/cc86ebb0-7e74-44c8-abf4-c5a3948e4c9c" />
 
-<img width="1308" height="512" alt="image" src="https://github.com/user-attachments/assets/33dc5d40-397e-4641-a8c6-f4dec0a57efe" />
+<img width="1306" height="732" alt="cert11b" src="https://github.com/user-attachments/assets/500d6d57-dace-4f96-b7b8-c25cec0d2e75" />
 
 ---
 
