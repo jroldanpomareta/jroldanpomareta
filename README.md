@@ -1,6 +1,6 @@
 # 👋 Hola, soy Javier
 
-☕ Desarrollador Backend Java en formación  
+☕ Desarrollador Backend Java
 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)  
 🚀 Especializándome en Java, Spring, Spring Boot, Hibernate y MySQL  
 📍 Madrid
@@ -8,6 +8,10 @@
 https://javier-roldan-portfolio.netlify.app
 
 ---
+Credencial GH300:
+
+<img width="1224" height="868" alt="GH300" src="https://github.com/user-attachments/assets/2783d77b-d8c3-4d99-b5b5-0a5738a01460" />
+
 
 ## 🚀 Tecnologías y herramientas
 
