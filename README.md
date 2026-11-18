@@ -1,112 +1,184 @@
-# 👋 Hola, soy Javier
+<table>
+  <tr>
+    <td width="75%">
+      <h3>Javier Roldán Pomareta</h3>
+      <p>
+        Técnico Superior en Desarrollo de Aplicaciones Web (DAW) | Java Backend Developer
+      </p>
+      <p>
+        Desarrollador Java especializado en Spring Boot y tecnologías backend, en formación continua.
+      </p>
+      <h3>Contacto y perfiles</h3>
+      <ul>
+        <li><a href="https://javier-roldan-portfolio.netlify.app">Portfolio</a></li>
+        <li><a href="https://github.com/jroldanpomareta">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/javier-rold%C3%A1n-pomareta-98079319a/">LinkedIn</a></li>
+        <li><a href="mailto:javierroldanpomareta@hotmail.com">Email</a></li>
+      </ul>
+    </td>
+    <td width="25%" align="center">
+      <img width="180" src="https://github.com/user-attachments/assets/faa81cb9-0930-4a67-8b00-1574500e27bd" />
+    </td>
+  </tr>
+</table>
 
-☕ Desarrollador Backend Java
-🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)  
-🚀 Especializándome en Java, Spring, Spring Boot, Hibernate y MySQL  
-📍 Madrid
-
-https://javier-roldan-portfolio.netlify.app
-
----
-Credencial GH300:
-
-<img width="1224" height="868" alt="GH300" src="https://github.com/user-attachments/assets/2783d77b-d8c3-4d99-b5b5-0a5738a01460" />
-
-
-## 🚀 Tecnologías y herramientas
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
-
-
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
-
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
-
----
-
-
-## 💼 Actualmente
-En realización del Bootcamp de Fundaula:
-1ª Edición Back-End Java GenAI
-
-Microsoft Applied Skills Aceleracion del desarrollo asistido por IA mediante GitHub Copilot
-<img width="772" height="647" alt="desarrollo IA" src="https://github.com/user-attachments/assets/552d80d6-13b8-4e63-9ead-b6ddd03b39fb" />
-
-
-
-<img width="204" height="250" alt="curso" src="https://github.com/user-attachments/assets/8b445c21-2850-4a58-9e27-9f8d017445f2" />
-
-<img width="1450" height="564" alt="image" src="https://github.com/user-attachments/assets/8be114d7-faf3-4b75-98fa-33b17a64b1b9" />
-
-
-Habiendo finalizado:
-1ª Edición Flexible Back End Java de Fundaula
-
-<img width="1306" height="732" alt="cert11a" src="https://github.com/user-attachments/assets/cc86ebb0-7e74-44c8-abf4-c5a3948e4c9c" />
-
-<img width="1306" height="732" alt="cert11b" src="https://github.com/user-attachments/assets/500d6d57-dace-4f96-b7b8-c25cec0d2e75" />
-
----
-
-## 📌 Proyecto backend finalizado recientemente
-
-### 🏨 SpringHotelApp
-
-Aplicación web de gestión hotelera desarrollada con Spring MVC + Hibernate.
-
-✔ Sistema de login y control de roles  
-✔ CRUD completo de habitaciones, huéspedes, reservas e incidencias  
-✔ Arquitectura MVC  
-✔ Integración con MySQL  
-✔ Trabajo colaborativo con Git Flow y Pull Requests  
-✔ Gestión de sesiones y navegación protegida
-
----
-
-## 📚 Otros proyectos y prácticas
-
-### 🌱 Spring MVC Form App
-Aplicación desarrollada con Spring MVC utilizando formularios y validaciones.
-
-### ⚡ Spring Hibernate App
-Proyecto Java conectado a MySQL mediante Hibernate ORM.
-
-### 🎮 Piedra Papel Tijeras
-Mini proyecto JavaScript centrado en lógica y manipulación del DOM.
-
-### 🍰 Dulce Paraíso
-Proyecto DAW orientado al desarrollo web y gestión de contenidos.
-
----
-
-## 📊 Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jroldanpomareta&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jroldanpomareta&theme=github_dark" />
+<p>
+  Desarrollador Backend Java y Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
+  Actualmente estoy especializándome en el desarrollo backend con Java y el ecosistema Spring,
+  trabajando con tecnologías como Spring Boot, Hibernate y MySQL.
 </p>
 
----
+<p>
+  Mi objetivo es seguir creciendo profesionalmente en el desarrollo de software,
+  consolidar mis conocimientos y adquirir experiencia desarrollando aplicaciones
+  backend, aplicando buenas prácticas de programación y aprendiendo continuamente
+  nuevas tecnologías.
+</p>
 
-## 📫 Contacto
+## 🛠️ Stack técnico
 
-- LinkedIn: https://www.linkedin.com/in/javier-rold%C3%A1n-pomareta-98079319a/
-- - Portfolio: [file:///C:/Users/Javier/Desktop/portfolio/index.html](https://javier-roldan-portfolio.netlify.app/)
+### Backend
 
----
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="45"><br>Java</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="45"><br>Java EE</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="45"><br>Spring Boot</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="45"><br>Spring MVC</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="45"><br>Spring Data</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="45"><br>Spring Security</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="45"><br>Hibernate</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=maven&theme=dark" width="45"><br>Maven</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="45"><br>Apache Tomcat</td>
+</td>
+</td>
+</tr>
+</table>
 
-⭐ Aprendiendo y mejorando en cada proyecto.
+### Bases de datos
+
+<table>
+<tr>
+<td align="center" width="100"><img src="https://img.icons8.com/fluency/48/database.png" width="45"><br>SQL</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45"><br>MySQL</td>
+<td align="center" width="100">
+  <img src="https://www.h2database.com/html/images/h2-logo.png" width="45"><br>H2
+</td>
+</tr>
+</table>
+
+### Calidad, testing y seguridad
+
+<table>
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="45"><br>SonarQube</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="45"><br>Postman</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="45"><br>Swagger</td>
+<td align="center" width="100"><img src="https://junit.org/assets/img/junit5-logo.png" width="45"><br>JUnit 5</td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png" width="45"><br>Mockito</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" width="45"><br>JWT</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/json/ffffff" width="45"><br>JSON</td>
+</tr>
+</table>
+
+### DevOps y herramientas
+
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45"><br>Docker</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45"><br>Git</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"><br>GitHub</td>
+<td align="center" width="100"><img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="45"><br>GitHub Copilot</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="45"><br>Eclipse</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45"><br>VS Code</td>
+</tr>
+</table>
+
+### En formación:
+
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="45"><br>MongoDB</td>
+</tr>
+</table>
+
+<h2>📂 Proyectos</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📚 Library – API REST</h3>
+      <img src="https://github.com/user-attachments/assets/fbc96efc-5419-4a15-a3b2-c5ce22c8aec2" width="300">
+      <p>API REST para la gestión de una biblioteca desarrollada con Spring Boot.</p>
+      <p><strong>Tecnologías:</strong> Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, H2</p>
+      <a href="ENLACE_LIBRARY">Ver proyecto</a>
+    </td>
+    <td width="50%" align="center">
+      <h3>📋 Task Manager</h3>
+      <img src="https://github.com/user-attachments/assets/9509b8fd-1d44-40e3-b762-daa09490fc7a" width="300">
+      <p>Aplicación backend para la gestión de tareas.</p>
+      <p><strong>Tecnologías:</strong> Java, Spring Boot, Hibernate, MySQL</p>
+      <a href="ENLACE_TASK_MANAGER">Ver proyecto</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏨 SpringHotelApp</h3>
+      <img src="https://github.com/user-attachments/assets/a9653830-92be-44ad-a4db-8c432b52a193" width="300">
+      <p>Aplicación web de gestión hotelera de habitaciones, huéspedes, reservas e incidencias.</p>
+      <p><strong>Tecnologías:</strong> Java, Spring MVC, Hibernate, MySQL</p>
+      <a href="ENLACE_SPRING_HOT">Ver proyecto</a>
+    </td>
+    <td width="50%" align="center">
+      <h3>📝 Spring MVC Form App</h3>
+      <img src="https://github.com/user-attachments/assets/43aac85e-056c-4ed7-b580-6405fbfd8bbd" width="300">
+      <p>Aplicación web con formularios y validaciones usando Spring MVC.</p>
+      <p><strong>Tecnologías:</strong> Java, Spring MVC</p>
+      <a href="ENLACE_SPRING_MVC_FORM">Ver proyecto</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🗄️ Spring Hibernate App</h3>
+      <img src="https://github.com/user-attachments/assets/3664ea28-291b-44c6-b8ca-bc9b284c16ce" width="300">
+      <p>Aplicación Java con persistencia mediante Hibernate y MySQL.</p>
+      <p><strong>Tecnologías:</strong> Java, Hibernate, MySQL</p>
+      <a href="ENLACE_SPRING_HIBERNATE">Ver proyecto</a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌱 Spring Fundamentals</h3>
+      <img src="https://github.com/user-attachments/assets/a2b036c4-28ea-48e0-987a-47ca87b36bca" width="300">
+      <p>Proyecto práctico para trabajar los fundamentos del framework Spring.</p>
+      <p><strong>Tecnologías:</strong> Java, Spring</p>
+      <a href="ENLACE_SPRING_FUNDAMENTALS">Ver proyecto</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🍰 Dulce Paraíso</h3>
+      <img src="https://github.com/user-attachments/assets/32184747-07e0-406e-87f1-c43f1c70cf10" width="300">
+      <p>Proyecto web desarrollado durante el ciclo de Desarrollo de Aplicaciones Web.</p>
+      <p><strong>Tecnologías:</strong> HTML, CSS, JavaScript</p>
+      <a href="ENLACE_DULCE_PARADISO">Ver proyecto</a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
