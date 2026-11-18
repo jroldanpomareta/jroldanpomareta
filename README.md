@@ -52,8 +52,6 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="45"><br>Hibernate</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=maven&theme=dark" width="45"><br>Maven</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="45"><br>Apache Tomcat</td>
-</td>
-</td>
 </tr>
 </table>
 
@@ -166,14 +164,44 @@
   </tr>
 </table>
 
+<h2>🎓 Certificaciones y formación</h2>
 
+<h3>🏆 Certificaciones</h3>
 
+<ul>
+  <li>Oracle Cloud Infrastructure 2025 Foundations Associate</li>
+  <li>Cisco Certified Support Technician Cybersecurity</li>
+  <li>GH-300 – GitHub Copilot</li>
+</ul>
 
+<h3>📚 Formación y programas de especialización</h3>
 
+<ul>
+  <li><strong>Programa de Especialización en Desarrollo Backend Java e IA Generativa</strong> · Accenture y Universidad San Pablo CEU · 2026</li>
+  <li><strong>Programa de Especialización en Desarrollo Backend Java</strong> · Accenture · 2025 – 2026</li>
+  <li>Oracle Java Foundations</li>
+  <li>Oracle SQL Learning Explorer</li>
+  <li>Oracle Java Learning Explorer</li>
+  <li>Oracle MySQL Learning Explorer</li>
+  <li>Oracle Database Learning Explorer</li>
+  <li>Oracle Cloud Applications Foundations</li>
+  <li>Spring Fundamentals</li>
+  <li>Gestión de Proyectos con Metodologías Ágiles y Lean</li>
+</ul>
 
+<h3>🌍 Idiomas</h3>
 
+<ul>
+  <li>Español: Nativo</li>
+  <li>Inglés: B1 – Trinity College London</li>
+</ul>
 
+## 📊 Estadísticas GitHub
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jroldanpomareta&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jroldanpomareta&theme=github_dark" />
+</p>
 
 
 
