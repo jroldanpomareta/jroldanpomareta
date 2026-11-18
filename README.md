@@ -23,16 +23,9 @@
 </table>
 
 <p>
-  Desarrollador Backend Java y Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
-  Actualmente estoy especializándome en el desarrollo backend con Java y el ecosistema Spring,
-  trabajando con tecnologías como Spring Boot, Hibernate y MySQL.
-</p>
-
-<p>
-  Mi objetivo es seguir creciendo profesionalmente en el desarrollo de software,
-  consolidar mis conocimientos y adquirir experiencia desarrollando aplicaciones
-  backend, aplicando buenas prácticas de programación y aprendiendo continuamente
-  nuevas tecnologías.
+  Desarrollador Backend Java especializado en Spring Boot, APIs REST y persistencia de datos.
+  Trabajo con Java, Spring Security, Hibernate, MySQL y Docker.
+  Actualmente desarrollo proyectos orientados a buenas prácticas, testing y diseño de aplicaciones mantenibles.
 </p>
 
 ## 🛠️ Stack técnico
@@ -111,14 +104,14 @@
       <img src="https://github.com/user-attachments/assets/fbc96efc-5419-4a15-a3b2-c5ce22c8aec2" width="300">
       <p>API REST para la gestión de una biblioteca desarrollada con Spring Boot.</p>
       <p><strong>Tecnologías:</strong> Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, H2</p>
-      <a href="ENLACE_LIBRARY">Ver proyecto</a>
+      <a href="https://github.com/jroldanpomareta/library">Ver proyecto</a>
     </td>
     <td width="50%" align="center">
       <h3>📋 Task Manager</h3>
       <img src="https://github.com/user-attachments/assets/9509b8fd-1d44-40e3-b762-daa09490fc7a" width="300">
       <p>Aplicación backend para la gestión de tareas.</p>
       <p><strong>Tecnologías:</strong> Java, Spring Boot, Hibernate, MySQL</p>
-      <a href="ENLACE_TASK_MANAGER">Ver proyecto</a>
+      <a href="https://github.com/jroldanpomareta/TaskManager">Ver proyecto</a>
     </td>
   </tr>
   <tr>
@@ -127,14 +120,14 @@
       <img src="https://github.com/user-attachments/assets/a9653830-92be-44ad-a4db-8c432b52a193" width="300">
       <p>Aplicación web de gestión hotelera de habitaciones, huéspedes, reservas e incidencias.</p>
       <p><strong>Tecnologías:</strong> Java, Spring MVC, Hibernate, MySQL</p>
-      <a href="ENLACE_SPRING_HOT">Ver proyecto</a>
+      <a href="https://github.com/jroldanpomareta/SpringHotelApp">Ver proyecto</a>
     </td>
     <td width="50%" align="center">
       <h3>📝 Spring MVC Form App</h3>
       <img src="https://github.com/user-attachments/assets/43aac85e-056c-4ed7-b580-6405fbfd8bbd" width="300">
       <p>Aplicación web con formularios y validaciones usando Spring MVC.</p>
       <p><strong>Tecnologías:</strong> Java, Spring MVC</p>
-      <a href="ENLACE_SPRING_MVC_FORM">Ver proyecto</a>
+      <a href="https://github.com/jroldanpomareta/spring-mvc-form-app">Ver proyecto</a>
     </td>
   </tr>
   <tr>
@@ -143,14 +136,14 @@
       <img src="https://github.com/user-attachments/assets/3664ea28-291b-44c6-b8ca-bc9b284c16ce" width="300">
       <p>Aplicación Java con persistencia mediante Hibernate y MySQL.</p>
       <p><strong>Tecnologías:</strong> Java, Hibernate, MySQL</p>
-      <a href="ENLACE_SPRING_HIBERNATE">Ver proyecto</a>
+      <a href="https://github.com/jroldanpomareta/spring-hibernate-app">Ver proyecto</a>
     </td>
     <td width="50%" align="center">
       <h3>🌱 Spring Fundamentals</h3>
       <img src="https://github.com/user-attachments/assets/a2b036c4-28ea-48e0-987a-47ca87b36bca" width="300">
       <p>Proyecto práctico para trabajar los fundamentos del framework Spring.</p>
       <p><strong>Tecnologías:</strong> Java, Spring</p>
-      <a href="ENLACE_SPRING_FUNDAMENTALS">Ver proyecto</a>
+      <a href="https://github.com/jroldanpomareta/spring-fundamentals">Ver proyecto</a>
     </td>
   </tr>
   <tr>
@@ -159,7 +152,7 @@
       <img src="https://github.com/user-attachments/assets/32184747-07e0-406e-87f1-c43f1c70cf10" width="300">
       <p>Proyecto web desarrollado durante el ciclo de Desarrollo de Aplicaciones Web.</p>
       <p><strong>Tecnologías:</strong> HTML, CSS, JavaScript</p>
-      <a href="ENLACE_DULCE_PARADISO">Ver proyecto</a>
+      <a href="https://github.com/jroldanpomareta/dulce-paraiso">Ver proyecto</a>
     </td>
   </tr>
 </table>
