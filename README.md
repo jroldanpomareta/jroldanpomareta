@@ -8,6 +8,7 @@
       <p>
         Desarrollador Java especializado en Spring Boot y tecnologías backend, en formación continua.
       </p>
+      <p>📍 Madrid</p>
       <h3>Contacto y perfiles</h3>
       <ul>
         <li><a href="https://javier-roldan-portfolio.netlify.app">Portfolio</a></li>
